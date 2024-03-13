@@ -1,7 +1,7 @@
 # Python_CryptoNotificator
 #### Crypto price notification script
 
-### ★ Change the code as requested or needed
+### ★ Change the code as needed
 
 ### ¤ Needed packages:
 
